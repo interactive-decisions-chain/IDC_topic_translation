@@ -1,0 +1,59 @@
+IDC development was launched in the fall of 2018. Our goal was to create a blockchain
+equally convenient and interesting for both miners and long-term investors.
+NIST5 was chosen as the hashing algorithm. It is not as well ASIC- resistant to mining
+with ASICs but characterized by relatively low power consumption,.
+We made our blockchain convenient for fast transactions, making their cost low enough.
+What is the use of IDC?
+IDC is the base block for the ID.DEX decentralized cryptocurrency exchange, which will
+be launched in September of 2019. IDC will be used along with the usual currencies to pay
+for commissions and withdrawal fees. Using IDC for this purpose will reduce the
+commission load for the end user, and will also guarantee a commission discount and a
+minimum transaction cost. ID.DEX is the main project compared to IDC, but it is IDC that
+is nothing more than the start of a project.
+Benefits of investing in IDC?
+Through the initial sale of MasterNode, we will secure a number of serious advantages to
+which we should include a quick coin listing, as well as the entry of 5 buyers into the team
+as co-owners of the exchange (Detailed information is presented on the project website in
+the Like no other section). This is an official operation and these people will be included in
+the ownership of the company, the basis of which is the primary task of the development
+team after listing IDC on a third-party exchange. Future IDC After December 31, 2019, we
+will make an IDC hardfork, the result of which will be a complete transition to the PoS
+consensus, so we will solve the problem of generating blocks for ID.DEX. We will also
+provide an opportunity for IDC holders to switch from PoS to dPoS and store their coins
+on the online version of the wallet. The second result of hard forks will be the limitation of
+the maximum number of masternodes in the network based on their age. Only the oldest
+100 nodes will get slots in the blockchain after hardfork. Running ID.DEX will also
+change the block time, which is required to ensure ID.DEX transaction processing speed.
+Project ID.DEX In the future
+We plan to launch DEX based on IDC, and connect the FIAT payment gateways to it. In
+the active testing process is a client-server application Meta Trader 5, which has a rich set
+of tools for professional trading on the exchange. In addition, ID.DEX will receive
+connectors for third-party trading platforms focused on professional trading.
+After hard forks, we will also provide our clients with self-regulating governance, which
+allows us to determine the development path of ID.DEX by voting according to the
+interests of our clients.
+Summary:
+Based on the above, we create excellent conditions for those who are interested in long-
+time investment.Unlike the rest of DEX, we are the FIRST, that offers the first investors not just a
+percentage of the total number of coins, but also shares of the future company, which will
+be registered in Estonia, in accordance with the deadline specified in the roadmap. Only
+the first 5 MasterNodes will have the opportunity to own shares of the future company.
+Thus, choosing us - you ensure your future. IC - Chain, 06/14/2019 "like no other".
+
+Name and ticker: Interactive Decisions Chain Coin [IDC]
+Consensus algorithm: POW and POS
+POW phase duration: 144 840 blocks
+PoW block reward: 10 IDC
+Instamine protection: first 2000 blocks
+Hashing algorithm: NIST5
+Maximum IDC total supply: n/a (unlimited)
+POS starting block: 144 841 block
+POS block reward: 10 IDC
+POS block reward distribution: SeeSaw
+Masternode reward activation: 2280 block
+Premine: 1 000 000 IDC
+Blocksize: 4 mb
+SegWit: yes
+Blocktime average: 2 minute (DGW3)
+Number of transaction confirmations: 6 confirmations
+Maturity: 60 confirmations
